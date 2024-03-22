@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Inter-V';
-    src: url('./src/assets/Inter-V.ttf') format('truetype');
+    src: url('./assets/fonts/Inter-V.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
